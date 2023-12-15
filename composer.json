@@ -1,5 +1,5 @@
 {
-    "name": "sebastian/phpcpd",
+    "name": "softlinecy/phpcpd",
     "description": "Copy/Paste Detector (CPD) for PHP code.",
     "homepage": "https://github.com/sebastianbergmann/phpcpd",
     "license": "BSD-3-Clause",
